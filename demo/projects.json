@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ra-system",
+    "name": "RA Workspace",
+    "category": "Applications",
+    "headline": "Keep the work and its evidence together.",
+    "description": "Capture a task, attach its evidence and move it from inbox to done.",
+    "mode": "tasks",
+    "maturity": "New starter",
+    "disclosure": "New local task workspace; no calendar, email or Notion integrations.",
+    "features": [
+      "Task capture",
+      "Priority board",
+      "Evidence notes"
+    ],
+    "remaining": "Browser records stay on this device. Python SQLite storage is available for local workflows.",
+    "number": "08",
+    "repo": "https://github.com/nevermisssniper/ra-system"
+  }
+]
